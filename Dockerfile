@@ -7,6 +7,4 @@ from k8s.gcr.io/pause-amd64:3.0
 from k8s.gcr.io/k8s-dns-sidecar-amd64:1.14.7
 from k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.7
 from k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64:1.14.7
-from k8s.gcr.io/google_containers/kube-dns:v1.9.1
-
 MAINTAINER 1026074059@qq.com
