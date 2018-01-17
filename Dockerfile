@@ -1,6 +1,3 @@
-from gcr.io/google_containers/kube-apiserver-amd64:v1.9.1
-from gcr.io/google_containers/kube-controller-manager-amd64:v1.9.1
-from gcr.io/google_containers/kube-schedule-amd64:v1.9.1
 from k8s.gcr.io/kube-apiserver-amd64:v1.9.1
 from k8s.gcr.io/kube-controller-manager-amd64:v1.9.1
 from k8s.gcr.io/kube-scheduler-amd64:v1.9.1
